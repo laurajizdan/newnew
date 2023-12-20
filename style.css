@@ -1,0 +1,8 @@
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+  background-image: url('https://www.autocar.co.uk/sites/autocar.co.uk/files/1-porsche-911-gt3-2021-rt-hero-front.jpg');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
